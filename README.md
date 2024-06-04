@@ -1,6 +1,6 @@
 # 👋 Привет, я Александр!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=1000&random=true&width=600&lines=Back-end+Developer;Lover+of+new+technologies;Opensource+enthusiast;Open+source+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=1000&random=false&width=600&lines=Back-end+Developer;Lover+of+new+technologies;Opensource+enthusiast;Open+source+enthusiast)](https://git.io/typing-svg)
 
 ## О себе
 
