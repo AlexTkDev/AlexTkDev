@@ -14,7 +14,7 @@
 
 - **Email**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/aleksandrtk/](https://www.linkedin.com/in/aleksandrtk/)
-- **GitHub**: [https://github.com/AlexTkDev/AlexTkDev/](https://github.com/AlexTkDev/AlexTkDev/)
+- **GitHub**: [https://github.com/AlexTkDev/](https://github.com/AlexTkDev/)
 
 
 ## Моя философия
