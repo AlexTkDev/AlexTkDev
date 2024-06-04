@@ -1,7 +1,6 @@
 # 👋 Привет, я Александр!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F70000&width=435&lines=Разработчик+ПЗ;Любитель+новых+технологий;Open+Source+энтузиаст)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Back-end+Developer;Lover+of+new+technologies;Opensource+enthusiast;Open+source+enthusiast)](https://git.io/typing-svg)
 ## О себе
 
 Я занимаюсь разработкой программного обеспечения с акцентом на создание удобных и эффективных решений. Мои ключевые навыки включают:
