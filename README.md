@@ -1,26 +1,27 @@
-# 👋 Привет, я Александр!
+# 👋 Hello, I'm Alexander!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=1000&random=false&width=600&lines=Back-end+Developer;Lover+of+new+technologies;Opensource+enthusiast;Open+source+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=28B3F7&random=false&width=500&lines=Back-end+Developer;Just+a+good+man;Technology+and+programming+enthusiast)](https://git.io/typing-svg)
 
-## О себе
+## About Me
 
-Я занимаюсь разработкой программного обеспечения с акцентом на создание удобных и эффективных решений. Мои ключевые навыки включают:
+I am a software developer with a focus on creating user-friendly and efficient solutions. My key skills include:
 
-- **Языки программирования**: Python, JavaScript
-- **Веб-технологии**: HTML, CSS, React, Node.js, Bootstrap
-- **Базы данных**: MySQL, PostgreSQL, MongoDB
-- **Инструменты и технологии**: Git, GitHub
-## Контакты
+- **Programming languages**: Python, JavaScript
+- **Web technologies**: HTML-5, CSS-3, Jinja, Jango, Bootstrap, Flusk
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **Tools and technologies**: Git, GitHub
+-
+## Contacts
 
 - **Email**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/aleksandrtk/](https://www.linkedin.com/in/aleksandrtk/)
 - **GitHub**: [https://github.com/AlexTkDev/](https://github.com/AlexTkDev/)
 
 
-## Моя философия
+## My philosophy
 
-Я убежден, что хороший код — это код, который легко читать и поддерживать. Постоянное обучение и обмен знаниями с сообществом — вот что движет мной в мире технологий.
+I believe that good code is code that is easy to read and maintain. Continuous learning and sharing knowledge with the community is what drives me in the world of technology.
 
 ---
 
-Спасибо, что заглянули в мой профиль! Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной.
+Thank you for visiting my profile! If you have questions or suggestions, feel free to contact me.
