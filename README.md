@@ -7,7 +7,7 @@
 I am a software developer with a focus on creating user-friendly and efficient solutions. My key skills include:
 
 - **Programming languages**: Python, JavaScript
-- **Web technologies**: HTML-5, CSS-3, Jinja, Jango, Bootstrap, Flusk
+- **Web technologies**: HTML-5, CSS-3, Jinja, Jango, Bootstrap, Flusk, jQuery
 - **Databases**: MySQL, PostgreSQL, SQLite
 - **Tools and technologies**: Git, GitHub
 -
