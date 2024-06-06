@@ -9,8 +9,8 @@ I am a software developer with a focus on creating user-friendly and efficient s
 - **Programming languages**: Python, JavaScript
 - **Web technologies**: HTML-5, CSS-3, Jinja, Jango, Bootstrap, Flusk, jQuery
 - **Databases**: MySQL, PostgreSQL, SQLite
-- **Tools and technologies**: Git, GitHub
--
+- **Tools and technologies**: Git, GitHub 
+
 ## Contacts
 
 - **Email**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
