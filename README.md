@@ -6,7 +6,7 @@
 
 I am a software developer with a focus on creating user-friendly and efficient solutions. My key skills include:
 
-**Programming languages**:
+🍀: **Programming languages**:
  > Python, JavaScript, SQL
 
 **Web technologies**:
