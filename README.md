@@ -6,12 +6,9 @@
 
 I am a software developer with a focus on creating user-friendly and efficient solutions. My key skills include:
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+> [!Programming languages:]
+> Python, JavaScript, SQL
 
-- **Programming languages**:
-   [^]Python, JavaScript, SQL
-  
 - **Web technologies**:
     _HTML-5, CSS-3, Jinja, Jango, DRF, Bootstrap, Flusk, jQuery, Docker
   
