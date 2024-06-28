@@ -10,13 +10,13 @@ I am a software developer with a focus on creating user-friendly and efficient s
  > Python, JavaScript, SQL
 
 👉: **Web technologies**:
-> HTML-5, CSS-3, Jinja, Jango, DRF, Bootstrap, Flusk, jQuery, Docker
+> HTML-5, CSS-3, Jinja2, Jango, Django REST Framework, Bootstrap, Flusk, Fast API, jQuery
   
 👉: **Databases**:
 > MySQL, PostgreSQL, SQLite
   
 👉: **Tools and technologies**:
-> Git, GitHub, Postmen, OrbStack
+> Git, GitHub, Postmen, OrbStack, Docker
 
 ## Contacts
 
