@@ -23,6 +23,7 @@ I am a software developer with a focus on creating user-friendly and efficient s
 - **Email**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/aleksandrtk/](https://www.linkedin.com/in/aleksandrtk/)
 - **GitHub**: [https://github.com/AlexTkDev/](https://github.com/AlexTkDev/)
+- **Telegram**: [https://https://t.me/Aleksandr_Tk](https://https://t.me/Aleksandr_Tk)
 
 
 ## My philosophy
