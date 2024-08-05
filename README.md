@@ -18,7 +18,7 @@ I am a software developer with a focus on creating user-friendly and efficient s
 👉: **Tools and technologies**:
 > Git, GitHub, Postmen, OrbStack, Docker
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 ## Contacts
 
 - **Email**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
