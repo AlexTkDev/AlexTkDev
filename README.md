@@ -20,9 +20,9 @@ I am a software developer with a focus on creating user-friendly and efficient s
 
 ## Contacts
 
- - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Gmail" alt="Gmail" width="20" />&nbsp; : [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Gmail" alt="Gmail" width="20" />&nbsp; : [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" title="LinkedIn" alt="LinkedIn" width="60" />&nbsp; : [https://www.linkedin.com/in/aleksandrtk/](https://www.linkedin.com/in/aleksandrtk/)
-- **GitHub**: [https://github.com/AlexTkDev/](https://github.com/AlexTkDev/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" title="GitHub" alt="GitHub" width="40" />&nbsp;: [https://github.com/AlexTkDev/](https://github.com/AlexTkDev/)
 - **Telegram**: [https://t.me/Aleksandr_Tk](https://t.me/Aleksandr_Tk)
 
 
