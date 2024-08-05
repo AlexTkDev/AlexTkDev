@@ -20,7 +20,7 @@ I am a software developer with a focus on creating user-friendly and efficient s
 
 ## Contacts
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Java" alt="Java" width="30" height="30"/>&nbsp; - **Email**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Java" alt="Java" width="20" height="20"/>&nbsp; - **Email**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/aleksandrtk/](https://www.linkedin.com/in/aleksandrtk/)
 - **GitHub**: [https://github.com/AlexTkDev/](https://github.com/AlexTkDev/)
 - **Telegram**: [https://t.me/Aleksandr_Tk](https://t.me/Aleksandr_Tk)
