@@ -7,7 +7,8 @@
 I am a software developer with a focus on creating user-friendly and efficient solutions. My key skills include:
 
 👨‍💻: **Programming languages**:
- > Python, JavaScript, SQL
+ >   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+, JavaScript, SQL
 
 👉: **Web technologies**:
 > OOP, HTML-5, CSS-3, Jinja2, Jango, Django REST Framework, Bootstrap, Flusk, FastAPI, jQuery, Sentry
@@ -20,7 +21,6 @@ I am a software developer with a focus on creating user-friendly and efficient s
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
