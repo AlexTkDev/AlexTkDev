@@ -32,4 +32,4 @@ I believe that good code is code that is easy to read and maintain. Continuous l
 
 ---
 
-:speech_balloon: Thank you for visiting my profile! If you have questions or suggestions, feel free to contact me. :iphone:
+:label: Thank you for visiting my profile! If you have questions or suggestions, feel free to contact me. :iphone:
