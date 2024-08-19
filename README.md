@@ -18,7 +18,7 @@ I am a software developer with a focus on creating user-friendly and efficient s
 :wrench:: **Tools and technologies**:
 > Git, GitHub, Postmen, OrbStack, Docker
 
-## Contacts
+##  :speech_balloon: Contacts 
 
 - **E-mail**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/aleksandrtk/](https://www.linkedin.com/in/aleksandrtk/)
@@ -26,7 +26,7 @@ I am a software developer with a focus on creating user-friendly and efficient s
 - **Telegram**: [https://t.me/Aleksandr_Tk](https://t.me/Aleksandr_Tk)
 
 
-## My philosophy
+## :bulb: My philosophy
 
 I believe that good code is code that is easy to read and maintain. Continuous learning and sharing knowledge with the community is what drives me in the world of technology.
 
