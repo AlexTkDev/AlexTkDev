@@ -9,13 +9,13 @@ I am a software developer with a focus on creating user-friendly and efficient s
 :technologist:: **Programming languages**:
  > Python, JavaScript, SQL
 
-👉: **Web technologies**:
+:hammer:: **Web technologies**:
 > OOP, HTML-5, CSS-3, Jinja2, Jango, Django REST Framework, Bootstrap, Flusk, FastAPI, jQuery, Sentry
   
-👉: **Databases**:
+:card_file_box:: **Databases**:
 > MySQL, PostgreSQL, SQLite
   
-👉: **Tools and technologies**:
+:wrench:: **Tools and technologies**:
 > Git, GitHub, Postmen, OrbStack, Docker
 
 ## Contacts
