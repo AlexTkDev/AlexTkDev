@@ -10,7 +10,7 @@ I am a software developer with a focus on creating user-friendly and efficient s
  > Python, JavaScript, SQL
 
 :hammer:: **Web technologies**:
-> OOP, HTML-5, CSS-3, Jinja2, Jango, Django REST Framework, Bootstrap, Flusk, FastAPI, jQuery, Sentry
+> OOP, HTML-5, CSS-3, Jinja2, Jango, Django REST Framework, Bootstrap, Flusk, FastAPI, jQuery, Sentry, Selenium, BeautifulSoup
   
 :card_file_box:: **Databases**:
 > MySQL, PostgreSQL, SQLite
