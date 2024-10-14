@@ -24,7 +24,7 @@ I am a software developer with a focus on creating user-friendly and efficient s
 - **LinkedIn**: [https://www.linkedin.com/in/aleksandrtk/](https://www.linkedin.com/in/aleksandrtk/)
 - **GitHub**: [https://github.com/AlexTkDev/](https://github.com/AlexTkDev/)
 - **Telegram**: [https://t.me/Aleksandr_Tk](https://t.me/Aleksandr_Tk)
-
+- ***Jinni**: [https://djinni.co/q/14388cda23/](https://djinni.co/q/14388cda23/)
 
 ## My philosophy
 
