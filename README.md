@@ -27,7 +27,7 @@ I am a software developer with a focus on creating user-friendly and efficient s
 
 ## My philosophy
 
-I believe that good code is code that is easy to read and maintain. Continuous learning and sharing knowledge with the community is what drives me in the world of technology.
+I code with a purpose: to build solutions that are clean, scalable, and future-proof. For me, tech isn’t just tools and syntax—it’s a mindset of curiosity, collaboration, and constant growth. Sharing what I learn and learning from others keeps the spark alive.
 
 ---
 
