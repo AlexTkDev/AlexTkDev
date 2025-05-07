@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Alex!
+# 👋 Hello, I’m Alex!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=28B3F7&width=700&lines=Back-end+Developer;Tech+Enthusiast;Coffee+Addict)](https://git.io/typing-svg)
 
