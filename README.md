@@ -1,34 +1,47 @@
-# 👋 Hello, I'm Alex!
+## 👋 Hello, I’m Alex!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=28B3F7&random=false&width=700&lines=Back-end+Developer;Just+a+good+man;Technology+and+programming+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=28B3F7&width=700&lines=Back-end+Developer;Tech+Enthusiast;Coffee+Addict)](https://git.io/typing-svg)
 
-## About Me
 
-I am a software developer with a focus on creating user-friendly and efficient solutions. My key skills include:
+🐍 **Python Backend Developer** | 🚀 **Software Engineer**  
+📍 Remote (Worldwide)  |  📧 [8696tk@gmail.com](mailto:8696tk@gmail.com)  |  ☕️ Fueled by espresso  
 
-:technologist:: **Programming languages**:
- > Python, JavaScript, SQL
 
-:hammer:: **Web technologies**:
-> OOP, HTML-5, CSS-3, Jinja2, Jango, Django REST Framework, Bootstrap, Flask, FastAPI, jQuery, Sentry, Selenium, BeautifulSoup, Amazon Web Services (AWS)
-  
-:card_file_box:: **Databases**:
-> MySQL, PostgreSQL, SQLite
-  
-:wrench:: **Tools and technologies**:
-> Git, GitHub, Postmen, OrbStack, Docker
+### 📫 Let’s Connect
 
-## Contacts 
+[![Mail](https://img.shields.io/badge/Email-8696tk@gmail.com-blue?style=flat&logo=gmail)](mailto:8696tk@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-@Aleksandr_Tk-28A8E0?style=flat&logo=telegram)](https://t.me/Aleksandr_Tk)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AleksandrTk-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aleksandrtk/)  
+[![GitHub](https://img.shields.io/badge/GitHub-AlexTkDev-181717?style=flat&logo=github)](https://github.com/AlexTkDev)
+---
 
-- **E-mail**: [a8696tk@gmail.com](mailto:a8696tk@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/aleksandrtk/](https://www.linkedin.com/in/aleksandrtk/)
-- **GitHub**: [https://github.com/AlexTkDev/](https://github.com/AlexTkDev/)
-- **Telegram**: [https://t.me/Aleksandr_Tk](https://t.me/Aleksandr_Tk)
+### 🌟 About Me
 
-## My philosophy
-
-I code with a purpose: to build solutions that are clean, scalable, and future-proof. For me, tech isn’t just tools and syntax—it’s a mindset of curiosity, collaboration, and constant growth. Sharing what I learn and learning from others keeps the spark alive.
+I build clean, scalable backends and automate cloud workflows. I have proven success 
+improving API performance, designing microservices, and using AWS at scale. Former sales manager 
+turned developer, now learning GoLang and constantly evolving.
 
 ---
 
-:label: Thank you for visiting my profile! If you have questions or suggestions, feel free to contact me. :iphone:
+### 🧠 Technical Skills
+
+| Category       | Skills                                                          |
+| -------------- | --------------------------------------------------------------- |
+| **Languages**  | Python · JavaScript · SQL · Golang (in progress)                |
+| **Frameworks** | Django · DRF · Flask · FastAPI · aiogram 3                      |
+| **Databases**  | PostgreSQL · MySQL · SQLite · AWS Athena · NoSQL (TinyDB, MongoDB) |
+| **DevOps**     | Git · GitHub Actions · Docker · CI/CD · AWS (Lambda, S3, EC2) · Postman |
+| **Others**     | Selenium · BeautifulSoup · Jinja2 · Bootstrap · HTML/CSS · Notion · Slack |
+
+
+---
+
+### 💡 My Philosophy
+
+> I create the backend the same way a barista makes the perfect espresso: **full-bodied, always 
+> smooth and invigorating, and it does its job.** ☕️💥  
+> — Aleksandr
+
+---
+
+👀 Looking to collaborate? Drop me a line!
