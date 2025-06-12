@@ -1,13 +1,10 @@
-<!-- Hero Banner -->
 # 👋 Hey there, I’m Alex!
 
 ☁️ Backend Engineer · ☕ Espresso-Fueled Coder · 🛠️ Building with Python & Go
 
-<!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&width=1000&lines=Backend+Developer+%7C+Python+%7C+Go;Clean+Code+%7C+Cloud+Automation+%7C+AI+Integration;Always+Learning+%7C+Always+Shipping)
 
-<div style="margin:40px 0;"></div>
-
+<br><br>
 
 ## 👨‍💻 About Me
 
@@ -16,7 +13,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 
 > ☕️ Like espresso: strong, consistent, and never backing down from a challenge.
 
-<div style="margin:40px 0;"></div>
+<br><br>
 
 ## 🔗 Connect with Me
 
@@ -25,7 +22,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/aleksandrtk/)
 [![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/AlexTkDev)
 
-<div style="margin:40px 0;"></div>
+<br><br>
 
 ## 🚀 Tech Stack
 
@@ -37,7 +34,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 | ☁️ **Cloud & DevOps** | Docker · AWS (EC2, S3, Lambda) · GitHub Actions · CI/CD · Nginx           |
 | 🛠️ **Tools**           | Git · Postman · Selenium · BeautifulSoup · Bootstrap · Jinja2 · HTML/CSS  |
 
-<div style="margin:40px 0;"></div>
+<br><br>
 
 ## 🧠 Currently Learning
 
@@ -45,7 +42,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 - System design principles and architecture patterns for building scalable and maintainable applications  
 - Odoo framework development, including module customization and integration
 
-<div style="margin:40px 0;"></div>
+<br><br>
 
 ## 📂 Featured Projects
 
@@ -56,7 +53,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 - 🔹 [Resume Parsing](https://github.com/AlexTkDev/resume_parsing) — Python scripts for automated parsing and extraction of data from resumes  
 - 🔹 [Instagram and YouTube Parser](https://github.com/AlexTkDev/parser_Instagram_and_YouTube) — Scraper to collect and analyze data from Instagram and YouTube platforms  
 
-<div style="margin:40px 0;"></div>
+<br><br>
 
 ## 🤝 Let’s Collaborate
 
