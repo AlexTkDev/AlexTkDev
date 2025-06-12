@@ -2,7 +2,7 @@
 
 ☁️ Backend Engineer · ☕ Espresso-Fueled Coder · 🛠️ Building with Python & Go
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&width=1000&lines=Backend+Developer+%7C+Python+%7C+Go;Clean+Code+%7C+Cloud+Automation+%7C+AI+Integration;Always+Learning+%7C+Always+Shipping)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=false&vCenter=true&width=1000&lines=Backend+Developer+%7C+Python+%7C+Go;Clean+Code+%7C+Cloud+Automation+%7C+AI+Integration;Always+Learning+%7C+Always+Shipping)
 
 ## 👨‍💻 About Me
 
