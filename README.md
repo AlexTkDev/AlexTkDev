@@ -4,8 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&width=1000&lines=Backend+Developer+%7C+Python+%7C+Go;Clean+Code+%7C+Cloud+Automation+%7C+AI+Integration;Always+Learning+%7C+Always+Shipping)
 
-<br>
-
 ## 👨‍💻 About Me
 
 I'm a backend developer focused on building scalable APIs, integrating cloud automation, and writing maintainable code.  
@@ -53,7 +51,6 @@ Former sales director turned software engineer. Passionate about Python, learnin
 - 🔹 [Resume Parsing](https://github.com/AlexTkDev/resume_parsing) — Python scripts for automated parsing and extraction of data from resumes  
 - 🔹 [Instagram and YouTube Parser](https://github.com/AlexTkDev/parser_Instagram_and_YouTube) — Scraper to collect and analyze data from Instagram and YouTube platforms  
 
-- <br>
 
 ## 🤝 Let’s Collaborate
 
