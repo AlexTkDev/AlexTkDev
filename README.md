@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&width=1000&lines=Backend+Developer+%7C+Python+%7C+Go;Clean+Code+%7C+Cloud+Automation+%7C+AI+Integration;Always+Learning+%7C+Always+Shipping)
 
-<hr style="width:100%; height:1px; border:none; background-color:#f0f0f0; margin-bottom:40px;" />
+<div style="margin:40px 0;"></div>
 
 
 ## 👨‍💻 About Me
@@ -16,7 +16,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 
 > ☕️ Like espresso: strong, consistent, and never backing down from a challenge.
 
-<hr style="width:100%; height:1px; border:none; background-color:#f0f0f0; margin-bottom:40px;" />
+<div style="margin:40px 0;"></div>
 
 ## 🔗 Connect with Me
 
@@ -25,7 +25,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/aleksandrtk/)
 [![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/AlexTkDev)
 
-<hr style="width:100%; height:1px; border:none; background-color:#f0f0f0; margin-bottom:40px;" />
+<div style="margin:40px 0;"></div>
 
 ## 🚀 Tech Stack
 
@@ -37,7 +37,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 | ☁️ **Cloud & DevOps** | Docker · AWS (EC2, S3, Lambda) · GitHub Actions · CI/CD · Nginx           |
 | 🛠️ **Tools**           | Git · Postman · Selenium · BeautifulSoup · Bootstrap · Jinja2 · HTML/CSS  |
 
-<hr style="width:100%; height:1px; border:none; background-color:#f0f0f0; margin-bottom:40px;" />
+<div style="margin:40px 0;"></div>
 
 ## 🧠 Currently Learning
 
@@ -45,7 +45,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 - System design principles and architecture patterns for building scalable and maintainable applications  
 - Odoo framework development, including module customization and integration
 
-<hr style="width:100%; height:1px; border:none; background-color:#f0f0f0; margin-bottom:40px;" />
+<div style="margin:40px 0;"></div>
 
 ## 📂 Featured Projects
 
@@ -56,7 +56,7 @@ Former sales director turned software engineer. Passionate about Python, learnin
 - 🔹 [Resume Parsing](https://github.com/AlexTkDev/resume_parsing) — Python scripts for automated parsing and extraction of data from resumes  
 - 🔹 [Instagram and YouTube Parser](https://github.com/AlexTkDev/parser_Instagram_and_YouTube) — Scraper to collect and analyze data from Instagram and YouTube platforms  
 
-<hr style="width:100%; height:1px; border:none; background-color:#f0f0f0; margin-bottom:40px;" />
+<div style="margin:40px 0;"></div>
 
 ## 🤝 Let’s Collaborate
 
