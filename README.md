@@ -28,10 +28,10 @@ turned developer, now learning GoLang and constantly evolving.
 | Category       | Skills                                                          |
 | -------------- | --------------------------------------------------------------- |
 | **Languages**  | Python · JavaScript · SQL · Golang (in progress)                |
-| **Frameworks** | Django · DRF · Flask · FastAPI · aiogram 3                      |
+| **Frameworks** | Django · DRF · Flask · FastAPI · aiogram 3 · ODOO               |
 | **Databases**  | PostgreSQL · MySQL · SQLite · AWS Athena · NoSQL (TinyDB, MongoDB) |
 | **DevOps**     | Git · GitHub Actions · Docker · CI/CD · AWS (Lambda, S3, EC2) · Postman |
-| **Others**     | Selenium · BeautifulSoup · Jinja2 · Bootstrap · HTML/CSS · Notion · Slack |
+| **Others**     | Selenium · BeautifulSoup · Jinja2 · Bootstrap · HTML/CSS |
 
 
 ---
