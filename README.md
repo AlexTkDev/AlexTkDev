@@ -7,7 +7,7 @@
 📍 Remote (Worldwide) | [8696tk@gmail.com](mailto:8696tk@gmail.com) | ☕️ Fueled by espresso  
 
 
-### 📫 Let’s Connect
+#### 📫 Let’s Connect
 
 [![Mail](https://img.shields.io/badge/Email-8696tk@gmail.com-blue?style=flat&logo=gmail)](mailto:8696tk@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Aleksandr_Tk-28A8E0?style=flat&logo=telegram)](https://t.me/Aleksandr_Tk)  
@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AlexTkDev-181717?style=flat&logo=github)](https://github.com/AlexTkDev)
 ---
 
-### 🌟 About Me
+#### 🌟 About Me
 
 I build clean, scalable backends and automate cloud workflows. I have proven success 
 improving API performance, designing microservices, and using AWS at scale. Former sales manager 
@@ -23,9 +23,9 @@ turned developer, now learning GoLang and constantly evolving.
 
 ---
 
-### 🧠 Technical Skills
+#### 🧠 Technical Skills
 
-| Category       | Skills                                                          |
+| **Category**       | **Skills**                                                  |
 | -------------- | --------------------------------------------------------------- |
 | **Languages**  | Python · JavaScript · SQL · Golang (in progress)                |
 | **Frameworks** | Django · DRF · Flask · FastAPI · aiogram 3 · ODOO               |
@@ -36,7 +36,7 @@ turned developer, now learning GoLang and constantly evolving.
 
 ---
 
-### 💡 My Philosophy
+#### 💡 My Philosophy
 
 > I create the backend the same way a barista makes the perfect espresso: **full-bodied, always 
 > smooth and invigorating, and it does its job.** ☕️💥  
