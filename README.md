@@ -44,13 +44,13 @@ Former sales director turned software engineer. Passionate about Python, learnin
 
 ## 📂 Featured Projects
 
-- 🔹 [Shop Backend API](https://github.com/AlexTkDev/shop-backend) — Django REST API + Celery + PostgreSQL  
-- 🔹 [Telegram OpenAI Bot](https://github.com/AlexTkDev/aiogram-gpt-bot) — Async bot with GPT and FastAPI  
+- 🔹 [Odoo IPython Console - PyCharm Edition](https://github.com/AlexTkDev/ipython-console-to-VScode) — Full-featured interactive IPython console for Odoo development, replicating PyCharm Console functionality with enhanced Odoo-specific features.  
+- 🔹 [Telegram EduPlannerBotAI](https://github.com/AlexTkDev/EduPlannerBotAI) — AI-powered Telegram bot for personalized learning plans, scheduling, and study reminders. 
 - 🔹 [2048 Game in Python](https://github.com/AlexTkDev/2048-Game-in-Python) — Refactored classic 2048 puzzle game using Pygame  
 - 🔹 [macOS Application Speedtest](https://github.com/AlexTkDev/macOS_application_speedtest_for_python) — Tool to measure internet speed on macOS using Python  
 - 🔹 [Resume Parsing](https://github.com/AlexTkDev/resume_parsing) — Python scripts for automated parsing and extraction of data from resumes  
-- 🔹 [Instagram and YouTube Parser](https://github.com/AlexTkDev/parser_Instagram_and_YouTube) — Scraper to collect and analyze data from Instagram and YouTube platforms  
-
+- 🔹 [Instagram and YouTube Parser](https://github.com/AlexTkDev/parser_Instagram_and_YouTube) — Scraper to collect and analyze data from Instagram and YouTube platforms
+- 🔹 [Odoo Autocompletion Support Plugin (PyCharm)](https://github.com/AlexTkDev/odoo-autocomplete-plugin) — A modern, production-ready plugin for PyCharm Community Edition and IntelliJ IDEA, designed to supercharge Odoo development.
 
 ## 🤝 Let’s Collaborate
 
