@@ -1,13 +1,13 @@
 # 👋 Hey there, I’m Alex!
 
-☁️ Backend Engineer · ☕ Espresso-Fueled Coder · 🛠️ Building with Python & Go
+☁️ Python Backend / Fullstack Developer · ☕ Espresso-Fueled Coder · 🛠️ Building scalable systems
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=false&vCenter=true&width=1000&lines=Backend+Developer+%7C+Python+%7C+Go;Clean+Code+%7C+Cloud+Automation+%7C+AI+Integration;Always+Learning+%7C+Always+Shipping)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=false&vCenter=true&width=1000&lines=Python+Backend+%7C+Fullstack+Developer;Odoo+%7C+Django+%7C+FastAPI+%7C+AWS;Automation+%7C+ERP+Customization+%7C+System+Integrations)
 
 ## 👨‍💻 About Me
 
-I'm a backend developer focused on building scalable APIs, integrating cloud automation, and writing maintainable code.  
-Former sales director turned software engineer. Passionate about Python, learning Go, and improving everything with code.
+I'm a Python Backend / Fullstack developer focused on scalable APIs, ERP customization, system integrations, and performance optimization.  
+I build production solutions with Odoo, Django/FastAPI, cloud services, and clean automation workflows.
 
 > ☕️ Like espresso: strong, consistent, and never backing down from a challenge.
 
@@ -26,31 +26,36 @@ Former sales director turned software engineer. Passionate about Python, learnin
 
 | **Category**           | **Skills**                                                                |
 |------------------------|---------------------------------------------------------------------------|
-| 💻 **Languages**       | Python · JavaScript · SQL · Go (in progress)                              |
-| 🧩 **Frameworks**      | Django · DRF · FastAPI · Flask · aiogram 3 · Odoo                         |
-| 🗄️ **Databases**      | PostgreSQL · MySQL · SQLite · AWS Athena · MongoDB · TinyDB               |
-| ☁️ **Cloud & DevOps** | Docker · AWS (EC2, S3, Lambda) · GitHub Actions · CI/CD · Nginx           |
-| 🛠️ **Tools**           | Git · Postman · Selenium · BeautifulSoup · Bootstrap · Jinja2 · HTML/CSS  |
-
-<br>
-
-## 🧠 Currently Learning
-
-- Go programming language, with focus on concurrency patterns, interfaces, and package management  
-- System design principles and architecture patterns for building scalable and maintainable applications  
-- Odoo framework development, including module customization and integration
+| 💻 **Languages**       | Python · JavaScript · SQL                                                 |
+| 🧩 **Frameworks**      | Odoo (16+) · Django · Django REST Framework · FastAPI · Flask            |
+| 📱 **Mobile**          | Flutter                                                                   |
+| 🗄️ **Databases**      | PostgreSQL · MySQL · SQLite · MongoDB                                    |
+| ☁️ **Cloud & Tools**  | AWS (Lambda, S3, EC2) · Docker · CI/CD · Git                             |
+| 🛠️ **Other**          | HTML/CSS · Shell scripting                                                |
 
 <br>
 
 ## 📂 Featured Projects
 
-- 🔹 [Odoo IPython Console - PyCharm Edition](https://github.com/AlexTkDev/ipython-console-to-VScode) — Full-featured interactive IPython console for Odoo development, replicating PyCharm Console functionality with enhanced Odoo-specific features.  
-- 🔹 [Telegram EduPlannerBotAI](https://github.com/AlexTkDev/EduPlannerBotAI) — AI-powered Telegram bot for personalized learning plans, scheduling, and study reminders. 
-- 🔹 [2048 Game in Python](https://github.com/AlexTkDev/2048-Game-in-Python) — Refactored classic 2048 puzzle game using Pygame  
-- 🔹 [macOS Application Speedtest](https://github.com/AlexTkDev/macOS_application_speedtest_for_python) — Tool to measure internet speed on macOS using Python  
-- 🔹 [Resume Parsing](https://github.com/AlexTkDev/resume_parsing) — Python scripts for automated parsing and extraction of data from resumes  
-- 🔹 [Instagram and YouTube Parser](https://github.com/AlexTkDev/parser_Instagram_and_YouTube) — Scraper to collect and analyze data from Instagram and YouTube platforms
-- 🔹 [Odoo Autocompletion Support Plugin (PyCharm)](https://github.com/AlexTkDev/odoo-autocomplete-plugin) — A modern, production-ready plugin for PyCharm Community Edition and IntelliJ IDEA, designed to supercharge Odoo development.
+- 🔹 **School management system** — Integrated and customized Odoo + OpenEduCat ERP for school operations, business logic, UI components, and mobile support.  
+  **Stack:** Python 3 · Odoo 16+ · PostgreSQL · JavaScript · Flutter · Docker
+
+- 🔹 **Media Systems** — Customized Odoo ERP for a digital services company with ORM extensions, QWeb/JS UI, website integrations, and Cloudflare Turnstile.  
+  **Stack:** Python 3 · Odoo 17+ · PostgreSQL · Docker · JavaScript · XML · Cloudflare
+
+- 🔹 **Online Store (TeamChallenge.io)** — Built backend modules and REST APIs for products, orders, authentication, and payments; configured CI/CD.  
+  **Stack:** Python · Django · Django REST Framework · PostgreSQL · Docker · GitHub Actions
+
+- 🔹 **PDF-to-Word Conversion Tool (Freelance)** — Built OCR-based conversion flow from scanned PDF files to editable Word documents.  
+  **Stack:** Python · PyMuPDF · Google Cloud Vision API · GitHub Actions
+
+- 🔹 **EduPlannerBotAI (Freelance)** — Created Telegram bot with multi-level LLM fallback (OpenAI → Groq → TinyLlama), reminders, export, and multilingual support.  
+  **Stack:** Python · aiogram 3.x · OpenAI API · Groq API · llama-cpp-python · TinyDB
+
+- 🔹 **Online Learning Platform (Pet Project)** — Developed modular LMS + Blog with REST APIs, async tasks, Docker deployment, and automated tests.  
+  **Stack:** Django · DRF · PostgreSQL · Celery · Docker · Zoom API
+
+<br>
 
 ## 🤝 Let’s Collaborate
 
