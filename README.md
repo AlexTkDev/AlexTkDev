@@ -15,7 +15,7 @@ I build production solutions with Odoo, Django/FastAPI, cloud services, and clea
 
 ## 🔗 Connect with Me
 
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:a8695tk@gmail.com)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:a8696tk@gmail.com)
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/Aleksandr_Tk)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/aleksandrtk/)
 [![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/AlexTkDev)
