@@ -37,6 +37,8 @@ I build production solutions with Odoo, Django/FastAPI, cloud services, and clea
 
 ## 📂 Featured Projects
 
+- 🔹 **MacOSCleaner** — free macOS utility to reclaim disk space by removing caches, temp files, app leftovers, and other unnecessary data.
+
 - 🔹 **School management system** — Integrated and customized Odoo + OpenEduCat ERP for school operations, business logic, UI components, and mobile support.  
   **Stack:** Python 3 · Odoo 16+ · PostgreSQL · JavaScript · Flutter · Docker
 
