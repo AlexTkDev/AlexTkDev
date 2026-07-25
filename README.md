@@ -6,10 +6,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Python Backend / Fullstack developer focused on scalable APIs, ERP customization, system integrations, and performance optimization.  
-I build production solutions with Odoo, Django/FastAPI, cloud services, and clean automation workflows.
+I'm a **Python Backend / Full-Stack Developer** specializing in scalable backend systems, ERP customization, cloud integrations, and intelligent automation.
 
-> ☕️ Like espresso: strong, consistent, and never backing down from a challenge.
+My primary expertise is **Odoo**, where I build custom business solutions, automate workflows, develop modules, and integrate third-party services. I also develop production-ready applications with **Django**, **FastAPI**, **Flutter**, and modern cloud technologies.
+
+Alongside client work, I design, build, and actively maintain **MacOSCleaner** — my flagship native macOS application. Developing a complete software product has given me hands-on experience across architecture, performance optimization, desktop development, CI/CD, release management, and product lifecycle.
+
+I'm passionate about modern software engineering, including **AI-powered applications, LLM integrations, AI agents, MCP, workflow automation, cloud-native development, and scalable system architecture**.
 
 <br>
 
@@ -37,7 +40,10 @@ I build production solutions with Odoo, Django/FastAPI, cloud services, and clea
 
 ## 📂 Featured Projects
 
-- 🔹 **MacOSCleaner** — free macOS utility to reclaim disk space by removing caches, temp files, app leftovers, and other unnecessary data.
+- 🔹 **MacOSCleaner** — [GitHub](https://github.com/AlexTkDev/MacOSCleaner) • [Website](https://alextkdev.github.io/MacOSCleaner/)
+  A free, native macOS cleanup utility that helps users safely reclaim disk space by removing caches, temporary files, application leftovers, developer data, and other unnecessary files.
+  My flagship independent software project, which I design, develop, and actively maintain from the ground up.
+  **Stack:** Swift · SwiftUI · AppKit · Apple Intelligence · App Intents · macOS
 
 - 🔹 **School management system** — Integrated and customized Odoo + OpenEduCat ERP for school operations, business logic, UI components, and mobile support.  
   **Stack:** Python 3 · Odoo 16+ · PostgreSQL · JavaScript · Flutter · Docker
