@@ -14,7 +14,6 @@ Alongside client work, I design, build, and actively maintain **MacOSCleaner** �
 
 I'm passionate about modern software engineering, including **AI-powered applications, LLM integrations, AI agents, MCP, workflow automation, cloud-native development, and scalable system architecture**.
 
-<br>
 
 ## 🔗 Connect with Me
 
@@ -23,7 +22,6 @@ I'm passionate about modern software engineering, including **AI-powered applica
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/aleksandrtk/)
 [![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/AlexTkDev)
 
-<br>
 
 ## 🚀 Tech Stack
 
@@ -36,13 +34,12 @@ I'm passionate about modern software engineering, including **AI-powered applica
 | ☁️ **Cloud & Tools**  | AWS (Lambda, S3, EC2) · Docker · CI/CD · Git                             |
 | 🛠️ **Other**          | HTML/CSS · Shell scripting                                                |
 
-<br>
 
 ## 📂 Featured Projects
 
 - 🔹 **MacOSCleaner** — [GitHub](https://github.com/AlexTkDev/MacOSCleaner) • [Website](https://alextkdev.github.io/MacOSCleaner/)
   A free, native macOS cleanup utility that helps users safely reclaim disk space by removing caches, temporary files, application leftovers, developer data, and other unnecessary files.
-  My flagship independent software project, which I design, develop, and actively maintain from the ground up.
+  My flagship independent software project, which I design, develop, and actively maintain from the ground up.  
   **Stack:** Swift · SwiftUI · AppKit · Apple Intelligence · App Intents · macOS
 
 - 🔹 **School management system** — Integrated and customized Odoo + OpenEduCat ERP for school operations, business logic, UI components, and mobile support.  
@@ -63,7 +60,6 @@ I'm passionate about modern software engineering, including **AI-powered applica
 - 🔹 **Online Learning Platform (Pet Project)** — Developed modular LMS + Blog with REST APIs, async tasks, Docker deployment, and automated tests.  
   **Stack:** Django · DRF · PostgreSQL · Celery · Docker · Zoom API
 
-<br>
 
 ## 🤝 Let’s Collaborate
 
