@@ -1,27 +1,29 @@
-<table>
-  <tr>
-    <td width="80" align="center" valign="middle">
-      <a href="https://github.com/AlexTkDev">
-        <img src="https://github.com/AlexTkDev.png" width="72" height="72" style="border-radius: 50%;" alt="AlexTkDev">
-      </a>
-    </td>
-    <td valign="middle">
-      <h1 style="margin: 0; padding: 0; border-bottom: none;">Aleksandr Tkachenko</h1>
-      <p style="margin: 4px 0 8px 0;"><strong>Software Engineer & Builder.</strong> Focused on robust Python backend architecture, enterprise Odoo solutions, developer tooling, and native macOS software.</p>
-      <a href="https://t.me/Aleksandr_Tk"><img src="https://img.shields.io/badge/Telegram-@Aleksandr__Tk-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-      <a href="https://linkedin.com/in/aleksandrtk/"><img src="https://img.shields.io/badge/LinkedIn-aleksandrtk-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="mailto:a8696tk@gmail.com"><img src="https://img.shields.io/badge/Email-a8696tk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    </td>
-  </tr>
-</table>
+# Aleksandr Tkachenko
+
+> **Software Engineer & Builder.** Focused on robust Python backend architecture, enterprise Odoo solutions, developer tooling, and native macOS software.
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Aleksandr__Tk-24A1DE?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Aleksandr_Tk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aleksandrtk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandrtk/)
+[![Email](https://img.shields.io/badge/Email-a8696tk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a8696tk@gmail.com)
 
 ---
 
 ### ✦ Spotlight
 
-#### 🍏 [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) · [Website](https://alextkdev.github.io/MacOSCleaner/)
-Native, privacy-first cleanup utility for macOS built from the ground up with SwiftUI & AppKit. Helps developers and power users safely reclaim disk space, clean developer caches (Xcode, Docker, npm/pip), and manage system leftovers.
-* **Stack:** Swift · SwiftUI · AppKit · Apple Intelligence · macOS
+<table>
+  <tr>
+    <td width="100" align="center" valign="middle">
+      <a href="https://github.com/AlexTkDev/MacOSCleaner">
+        <img src="https://alextkdev.github.io/MacOSCleaner/static/assets/logo-96.png" width="100" height="100" style="border-radius: 20%;" alt="MacOSCleaner">
+      </a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://github.com/AlexTkDev/MacOSCleaner">MacOSCleaner</a></strong> · <a href="https://alextkdev.github.io/MacOSCleaner/">Website</a><br>
+      Native, privacy-first cleanup utility for macOS built from the ground up with SwiftUI & AppKit. Helps developers and power users safely reclaim disk space, clean developer caches (Xcode, Docker, npm/pip), and manage system leftovers.<br>
+      <code>Swift</code> <code>SwiftUI</code> <code>AppKit</code> <code>Apple Intelligence</code> <code>macOS</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
