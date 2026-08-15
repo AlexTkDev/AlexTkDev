@@ -1,66 +1,89 @@
-# 👋 Hey there, I’m Alex!
+<table>
+  <tr>
+    <td width="80" align="center" valign="middle">
+      <a href="https://github.com/AlexTkDev">
+        <img src="https://github.com/AlexTkDev.png" width="72" height="72" style="border-radius: 50%;" alt="AlexTkDev">
+      </a>
+    </td>
+    <td valign="middle">
+      <h1 style="margin: 0; padding: 0; border-bottom: none;">Aleksandr Tkachenko</h1>
+      <p style="margin: 4px 0 8px 0;"><strong>Software Engineer & Builder.</strong> Focused on robust Python backend architecture, enterprise Odoo solutions, developer tooling, and native macOS software.</p>
+      <a href="https://t.me/Aleksandr_Tk"><img src="https://img.shields.io/badge/Telegram-@Aleksandr__Tk-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+      <a href="https://linkedin.com/in/aleksandrtk/"><img src="https://img.shields.io/badge/LinkedIn-aleksandrtk-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="mailto:a8696tk@gmail.com"><img src="https://img.shields.io/badge/Email-a8696tk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    </td>
+  </tr>
+</table>
 
-☁️ Python Backend / Fullstack Developer · ☕ Espresso-Fueled Coder · 🛠️ Building scalable systems
+---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=false&vCenter=true&width=1000&lines=Python+Backend+%7C+Fullstack+Developer;Odoo+%7C+Django+%7C+FastAPI+%7C+AWS;Automation+%7C+ERP+Customization+%7C+System+Integrations)
+### ✦ Spotlight
 
-## 👨‍💻 About Me
+#### 🍏 [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) · [Website](https://alextkdev.github.io/MacOSCleaner/)
+Native, privacy-first cleanup utility for macOS built from the ground up with SwiftUI & AppKit. Helps developers and power users safely reclaim disk space, clean developer caches (Xcode, Docker, npm/pip), and manage system leftovers.
+* **Stack:** Swift · SwiftUI · AppKit · Apple Intelligence · macOS
 
-I'm a **Python Backend / Full-Stack Developer** specializing in scalable backend systems, ERP customization, cloud integrations, and intelligent automation.
+---
 
-My primary expertise is **Odoo**, where I build custom business solutions, automate workflows, develop modules, and integrate third-party services. I also develop production-ready applications with **Django**, **FastAPI**, **Flutter**, and modern cloud technologies.
+### ✦ Developer Tooling & Open Source
 
-Alongside client work, I design, build, and actively maintain **MacOSCleaner** — my flagship native macOS application. Developing a complete software product has given me hands-on experience across architecture, performance optimization, desktop development, CI/CD, release management, and product lifecycle.
+I like building tools that solve real bottlenecks in daily engineering workflows:
 
-I'm passionate about modern software engineering, including **AI-powered applications, LLM integrations, AI agents, MCP, workflow automation, cloud-native development, and scalable system architecture**.
+* **[cursor-odoo-plugin](https://github.com/AlexTkDev/cursor-odoo-plugin)** — Cursor IDE plugin and MCP toolkit for Odoo 16+ development. Automates module scaffolding, manifest & XML linting, version migration checks, and OCA compliance.  
+  `Python` `Cursor Plugin` `MCP` `Odoo`
 
+* **[ipython-console-to-VScode](https://github.com/AlexTkDev/ipython-console-to-VScode)** — Interactive IPython console for Odoo in VS Code, bringing PyCharm-like REPL, preloaded models, and environment inspection directly into the editor.  
+  `Python` `IPython` `VS Code` `Odoo`
 
-## 🔗 Connect with Me
+* **[a1707-ubuntu-installer](https://github.com/AlexTkDev/a1707-ubuntu-installer)** — Automated Ubuntu installation and kernel hardware patch suite for MacBook Pro A1707 (Touch Bar, audio drivers, Wi-Fi, graphics switching).  
+  `Shell` `Linux Kernel` `DKMS` `Hardware Automation`
 
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:a8696tk@gmail.com)
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/Aleksandr_Tk)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/aleksandrtk/)
-[![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/AlexTkDev)
+---
 
+### ✦ Enterprise & Production Systems
 
-## 🚀 Tech Stack
+* **School ERP & Mobile Ecosystem** — Full-cycle Odoo 16+ & OpenEduCat deployment. Integrated with custom Flutter app (iOS/Android) featuring a dedicated **COTURN** server for VoIP/cellular calling, **Firebase (FCM)** push notifications, and automated academic workflows.  
+  `Odoo 16+` `Flutter` `PostgreSQL` `coturn (VoIP)` `Firebase` `Docker`
 
-| **Category**           | **Skills**                                                                |
-|------------------------|---------------------------------------------------------------------------|
-| 💻 **Languages**       | Python · JavaScript · SQL                                                 |
-| 🧩 **Frameworks**      | Odoo (16+) · Django · Django REST Framework · FastAPI · Flask            |
-| 📱 **Mobile**          | Flutter                                                                   |
-| 🗄️ **Databases**      | PostgreSQL · MySQL · SQLite · MongoDB                                    |
-| ☁️ **Cloud & Tools**  | AWS (Lambda, S3, EC2) · Docker · CI/CD · Git                             |
-| 🛠️ **Other**          | HTML/CSS · Shell scripting                                                |
+* **Digital Services ERP Platform** — Custom Odoo 17+ business suite featuring extended ORM logic, custom QWeb/JavaScript frontend components translated pixel-perfect from Figma, and **Cloudflare Turnstile** bot protection.  
+  `Odoo 17+` `Python` `QWeb / JS` `PostgreSQL` `Cloudflare`
 
+* **AWS Serverless & ETL Pipelines** — Automated data processing pipelines powered by AWS Lambda, Athena, S3, and EC2 with external integrations for e-commerce intelligence (Amazon, Google, Keepa).  
+  `Python` `AWS (Lambda, S3, Athena, EC2)` `REST APIs` `Pytest`
 
-## 📂 Featured Projects
+---
 
-- 🔹 **MacOSCleaner** — [GitHub](https://github.com/AlexTkDev/MacOSCleaner) • [Website](https://alextkdev.github.io/MacOSCleaner/)
-  A free, native macOS cleanup utility that helps users safely reclaim disk space by removing caches, temporary files, application leftovers, developer data, and other unnecessary files.
-  My flagship independent software project, which I design, develop, and actively maintain from the ground up.  
-  **Stack:** Swift · SwiftUI · AppKit · Apple Intelligence · App Intents · macOS
+### ✦ AI, Search & Automation
 
-- 🔹 **School management system** — Integrated and customized Odoo + OpenEduCat ERP for school operations, business logic, UI components, and mobile support.  
-  **Stack:** Python 3 · Odoo 16+ · PostgreSQL · JavaScript · Flutter · Docker
+* **[EduPlannerBotAI](https://github.com/AlexTkDev/EduPlannerBotAI)** — Telegram bot with multi-tier LLM fallback routing (OpenAI → Groq → local Llama), offline execution mode, and structured study planning tools.  
+  `Python` `aiogram 3` `Groq API` `OpenAI` `llama-cpp-python`
 
-- 🔹 **Media Systems** — Customized Odoo ERP for a digital services company with ORM extensions, QWeb/JS UI, website integrations, and Cloudflare Turnstile.  
-  **Stack:** Python 3 · Odoo 17+ · PostgreSQL · Docker · JavaScript · XML · Cloudflare
+* **Vector Search & RAG** — Implementing semantic search workflows, RAG architectures, and indexing with OpenSearch and vector embeddings.
 
-- 🔹 **Online Store (TeamChallenge.io)** — Built backend modules and REST APIs for products, orders, authentication, and payments; configured CI/CD.  
-  **Stack:** Python · Django · Django REST Framework · PostgreSQL · Docker · GitHub Actions
+* **[resume_parsing](https://github.com/AlexTkDev/resume_parsing)** & **[Data Extraction](https://github.com/AlexTkDev/parser_Instagram_and_YouTube)** — Asynchronous web scraping, structured resume extraction, candidate scoring, and media streaming tools.  
+  `Python` `Playwright` `BeautifulSoup` `Pydantic` `AsyncIO`
 
-- 🔹 **PDF-to-Word Conversion Tool (Freelance)** — Built OCR-based conversion flow from scanned PDF files to editable Word documents.  
-  **Stack:** Python · PyMuPDF · Google Cloud Vision API · GitHub Actions
+---
 
-- 🔹 **EduPlannerBotAI (Freelance)** — Created Telegram bot with multi-level LLM fallback (OpenAI → Groq → TinyLlama), reminders, export, and multilingual support.  
-  **Stack:** Python · aiogram 3.x · OpenAI API · Groq API · llama-cpp-python · TinyDB
+### ✦ Toolbox
 
-- 🔹 **Online Learning Platform (Pet Project)** — Developed modular LMS + Blog with REST APIs, async tasks, Docker deployment, and automated tests.  
-  **Stack:** Django · DRF · PostgreSQL · Celery · Docker · Zoom API
+* **Backend & ERP:** Python · Odoo 16+ · Django · DRF · FastAPI · Flask · Celery · Redis
+* **Databases & Search:** PostgreSQL · OpenSearch · Vector DBs · MySQL · MongoDB · SQLite
+* **Cloud & Infrastructure:** AWS (Lambda, S3, EC2, Athena) · Cloudflare · Firebase / FCM · coturn · Docker · CI/CD
+* **Desktop & Mobile:** Swift (macOS) · SwiftUI · AppKit · Flutter
+* **Frontend:** JavaScript · QWeb · HTML5 / CSS3 · Figma-to-Code
+* **AI & Workflow:** MCP (Model Context Protocol) · LLM APIs · Linux / Shell · Git
 
+---
 
-## 🤝 Let’s Collaborate
+### ✦ Engineering Approach
+* **Legacy Modernization:** Untangling complex or fragile codebases, eliminating performance bottlenecks, and stabilizing systems with zero disruption to production.
+* **Architecture & Standards:** Designing clean, maintainable backends from the ground up with clear domain boundaries, test coverage, and automated CI/CD pipelines.
+* **Complex Integrations:** Connecting non-trivial third-party services, cloud infrastructure, and custom protocols (VoIP, COTURN, WebRTC) into cohesive systems.
 
-👀 Open to meaningful collaborations, cool side-projects, or just a good chat — **drop me a line!**
+---
+
+### ✦ What I'm Exploring Now
+* Building MCP servers and agentic workflows to connect IDEs with custom backends.
+* Native macOS desktop ergonomics and low-level AppKit / SwiftUI lifecycle details.
+* High-throughput query optimization and ORM indexing strategies for large-scale Odoo databases.
