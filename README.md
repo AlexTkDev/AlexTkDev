@@ -19,7 +19,7 @@
     </td>
     <td valign="middle">
       <strong><a href="https://github.com/AlexTkDev/MacOSCleaner">MacOSCleaner</a></strong> · <a href="https://alextkdev.github.io/MacOSCleaner/">Website</a><br>
-      Native, privacy-first cleanup utility for macOS built from the ground up with SwiftUI & AppKit. Helps developers and power users safely reclaim disk space, clean developer caches (Xcode, Docker, npm/pip), and manage system leftovers.<br>
+      Free CleanMyMac alternative for Apple Silicon (macOS 26+). Native SwiftUI cleaner, uninstaller, Privacy Inspector (TCC, network, browser extensions), disk analyzer, duplicates, Xcode/Docker/AI cache cleanup. Review before delete, Trash by default, no telemetry. Source-available .<br>
       <code>Swift</code> <code>SwiftUI</code> <code>AppKit</code> <code>Apple Intelligence</code> <code>macOS</code>
     </td>
   </tr>
