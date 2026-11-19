@@ -14,7 +14,7 @@
   <tr>
     <td width="100" align="center" valign="middle">
       <a href="https://github.com/AlexTkDev/MacOSCleaner">
-        <img src="https://alextkdev.github.io/MacOSCleaner/static/assets/logo-96.png" width="100" height="100" style="border-radius: 20%;" alt="MacOSCleaner">
+        <img src="https://alextkdev.github.io/MacOSCleaner/static/assets/logo-96.png" width="100" height="100" alt="MacOSCleaner">
       </a>
     </td>
     <td valign="middle">
@@ -62,8 +62,8 @@ I like building tools that solve real bottlenecks in daily engineering workflows
 
 * **Vector Search & RAG** — Implementing semantic search workflows, RAG architectures, and indexing with OpenSearch and vector embeddings.
 
-* **[resume_parsing](https://github.com/AlexTkDev/resume_parsing)** & **[Data Extraction](https://github.com/AlexTkDev/parser_Instagram_and_YouTube)** — Asynchronous web scraping, structured resume extraction, candidate scoring, and media streaming tools.  
-  `Python` `Playwright` `BeautifulSoup` `Pydantic` `AsyncIO`
+* **OCR & Document Extraction** — Scanned PDF-to-Word conversion pipelines, structured [resume extraction](https://github.com/AlexTkDev/resume_parsing) with candidate scoring, and asynchronous data scraping tools.  
+  `Python` `Google Cloud Vision API` `PyMuPDF` `Pydantic` `Playwright` `AsyncIO`
 
 ---
 
@@ -78,14 +78,8 @@ I like building tools that solve real bottlenecks in daily engineering workflows
 
 ---
 
-### ✦ Engineering Approach
-* **Legacy Modernization:** Untangling complex or fragile codebases, eliminating performance bottlenecks, and stabilizing systems with zero disruption to production.
-* **Architecture & Standards:** Designing clean, maintainable backends from the ground up with clear domain boundaries, test coverage, and automated CI/CD pipelines.
-* **Complex Integrations:** Connecting non-trivial third-party services, cloud infrastructure, and custom protocols (VoIP, COTURN, WebRTC) into cohesive systems.
+### ✦ Background & Focus
 
----
-
-### ✦ What I'm Exploring Now
-* Building MCP servers and agentic workflows to connect IDEs with custom backends.
-* Native macOS desktop ergonomics and low-level AppKit / SwiftUI lifecycle details.
-* High-throughput query optimization and ORM indexing strategies for large-scale Odoo databases.
+* **Product & Business Context:** 9 years in commercial leadership (up to Head of Sales) prior to software engineering — designing ERP, CRM, and KPI workflows around real operational metrics.
+* **Certifications:** Odoo Functional Certification · Linux Essentials (The Linux Foundation) · Git for Distributed Development (The Linux Foundation).
+* **Exploring Now:** MCP servers and agentic IDE workflows, native macOS lifecycle details (SwiftUI / AppKit), and PostgreSQL / Odoo ORM query optimization at scale.
